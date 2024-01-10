@@ -24,7 +24,7 @@ const App = () => {
   return (
     <div className='calc'>
       <input type="text" value={input}  />
-      <div>
+      <div class>
         <button onClick={clickHandler}>7</button>
         <button onClick={clickHandler}>8</button>
         <button onClick={clickHandler}>9</button>
